@@ -1,0 +1,6 @@
+B,G,R,Results,Tests
+169,209,234,neg,Bilirubin
+160,192,227,+,Bilirubin
+152,166,208,++,Bilirubin
+125,127,175,+++,Bilirubin
+186,214,231,Default,Bilirubin
